@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Spinner Dropdown example</string>
+    <string name="app_title">Android Spinner Example</string>
+    <string name="app_instruction">Select a Celebrity from the Dropdown List</string>
+</resources>
